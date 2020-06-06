@@ -1,3 +1,3 @@
 # Brain_Organization
 
-Including the original file or five cortical organization maps, and the related fsaverage5 space images. Also including the codes that were used to transforming the original images to fsaverage5 space.
+The five cortical organization maps (both the original data and the ones in fsaverage5 space). Also including the codes that were used to transform the original images to fsaverage5 space.
